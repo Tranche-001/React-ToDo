@@ -1,5 +1,12 @@
 <<<<<<< HEAD
 # React-ToDo
+## Lessons Learned:
+- How to use props
+- useState
+- useEffect
+- React programming logic
+- Componentization
+
 =======
 # React + Vite
 
